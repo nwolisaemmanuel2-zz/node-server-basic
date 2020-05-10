@@ -9,7 +9,7 @@ const server = http.createServer(function(req, res){
 
     let dataObj = {
         id: 11,
-        name: "Nwolisa Emmanuel Ekene",
+        name: "Nwolisa Emmanuel",
         email: "nwolisaemmanuel2@gmail.com",
         age: 29,
         location: "Techiman"
