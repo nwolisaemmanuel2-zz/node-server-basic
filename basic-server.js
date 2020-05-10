@@ -1,5 +1,4 @@
 // Basic Node Server
-
 const http = require("http");
 
 const server = http.createServer(function(req, res){
