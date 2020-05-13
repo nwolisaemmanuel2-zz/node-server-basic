@@ -11,7 +11,7 @@ const server = http.createServer(function(req, res){
         id: 123,
         name: "Emmanuel",
         email: "nwolisaemmanuel@gmail.com",
-        age: 29,
+        age: 20,
         location: "London"
     };
     let data = JSON.stringify(dataObj);
